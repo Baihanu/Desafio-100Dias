@@ -1,0 +1,6 @@
+print('Olá seja bem vindo(a) ao Gerador Automático para nome de Banda')
+print('Por favor, informe o nome da cidade em que reside: ')
+nome_1 = input('')
+print('Por favor, informe o nome de um animal de estimação: ')
+nome_2 = input('')
+print('O nome da sua banda é: {} {}'.format(nome_1, nome_2))
